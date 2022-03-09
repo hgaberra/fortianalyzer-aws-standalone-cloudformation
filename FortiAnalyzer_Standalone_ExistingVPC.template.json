@@ -161,7 +161,7 @@
 				"PAYG500Devices": "FortiAnalyzer VM64-AWSOnDemand *(6.4.*)*|dlwisgg79vzzo3zeommthp0zv"
 			},
 			"7.0.x": {
-				"BYOL": "FortiAnalyzer VM64-AWS *(7.0.*)*|os40mk0fw6472m8ak2lnzp4s",
+				"BYOL": "FortiAnalyzer VM64-AWS *(7.0.*)*|9ipdy7tpkp24kmfsjgfuymny1",
 				"PAYG2Devices": "FortiAnalyzer VM64-AWSOnDemand *(7.0.*)*|9dtuu71e8jl604ce11efi1mzo",
 				"PAYG10Devices": "FortiAnalyzer VM64-AWSOnDemand *(7.0.*)*|5fjrlla50pzzq1c8064gnm11n",
 				"PAYG30Devices": "FortiAnalyzer VM64-AWSOnDemand *(7.0.*)*|f260v7j9fwdvlcsbnpsjpaozc",
